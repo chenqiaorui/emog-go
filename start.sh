@@ -1,3 +1,5 @@
+# 使用本脚本之前应保证./RunningManageServer服务是已经在线的状态。
+# 即手动执行过nohup ./RunningManageServer >/dev/null 2>&1 &
 RED_COLOR='\E[1;31m'  #红
 GREEN_COLOR='\E[1;32m' #绿
 YELOW_COLOR='\E[1;33m' #黄
